@@ -219,7 +219,7 @@ public class RestResponseEntityExceptionHandler extends ResponseEntityExceptionH
 
 ## Integración fluida
 
-- **Backend y frontend sincronizados, con un manejo eficiente de autenticación y roles.**
+- **Backend y frontend sincronizados, con un manejo eficiente de autenticación y registro de usuario.**
 
 # Conclusión
 
