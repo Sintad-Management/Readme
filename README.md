@@ -105,37 +105,47 @@ El objetivo principal es gestionar entidades mediante operaciones CRUD, aseguran
    *Vista de la interfaz de inicio de sesión.*
    ![Interfaz UI](https://i.imgur.com/iJTCcYL.png)
 
-   *Vista de la interfaz de registro de usuario con validaciones.*
+   *Vista de la interfaz de registro de usuario*
    ![Interfaz UI](https://i.imgur.com/GDHJ2kp.png)
 
-   *Una vez creado el usuario, se redirige a la página de inicio de sesión con un mensaje de éxito.*
-   ![Interfaz UI](https://i.imgur.com/A7LkfGJ.png)
 
-   *Advertencia mostrada si se ingresan credenciales incorrectas.*
-   ![Interfaz UI](https://i.imgur.com/T1ZFEWK.png)
+    *Vista de la interfaz de registro de usuario con validaciones.*
+    ![Interfaz UI](https://i.imgur.com/A7LkfGJ.png)
 
-   *Ingreso a la aplicación con un mensaje de éxito.*
-   ![Interfaz UI](https://i.imgur.com/4pTUSOE.png)
+    *Una vez creado el usuario, se redirige a la página de inicio de sesión con un mensaje de éxito.*
 
-   *Creación de una entidad en el formulario con validaciones.*
-   ![Interfaz UI](https://i.imgur.com/GkKW2bo.png)
-   ![Interfaz UI](http://i.imgur.com/B5BP1oZ.png)
-   ![Interfaz UI](https://i.imgur.com/AtzGebm.png)
-   ![Interfaz UI](https://i.imgur.com/XHnWNY7.png)
+    ![Interfaz UI](https://i.imgur.com/T1ZFEWK.png)
 
-   *Verificación de la creación de la entidad en la base de datos.*
-   ![Interfaz UI](https://i.imgur.com/hTw4CAd.png)
+    
+    *Advertencia mostrada si se ingresan credenciales incorrectas.*
 
-   *Advertencia mostrada al eliminar o editar una entidad.*
-   ![Interfaz UI](https://i.imgur.com/jDNthFX.png)
-   ![Interfaz UI](https://i.imgur.com/GkKW2bo.png)
+    ![Interfaz UI](https://i.imgur.com/4pTUSOE.png)
 
-   *Creación de múltiples entidades.*
-   ![Interfaz UI](https://i.imgur.com/0LLSZjU.png)
 
-   *Visualización del formulario para ver tipos de contribuyentes y documentos.*
-   ![Interfaz UI](https://i.imgur.com/IxhfOSV.png)
-   ![Interfaz UI](https://i.imgur.com/ekH3xlm.png)
+    *Ingreso a la aplicación con un mensaje de éxito.*
+    ![Interfaz UI](https://i.imgur.com/GkKW2bo.png)
+
+
+    *Creación de una entidad en el formulario con validaciones.*
+
+    ![Interfaz UI](https://i.imgur.com/B5BP1oZ.png)
+
+    ![Interfaz UI](https://i.imgur.com/AtzGebm.png)
+    ![Interfaz UI](https://i.imgur.com/XHnWNY7.png)
+
+    *Verificación de la creación de la entidad en la base de datos.*
+    ![Interfaz UI](https://i.imgur.com/hTw4CAd.png)
+
+    *Advertencia mostrada al eliminar o editar una entidad.*
+    ![Interfaz UI](https://i.imgur.com/jDNthFX.png)
+    ![Interfaz UI](https://i.imgur.com/GkKW2bo.png)
+
+    *Creación de múltiples entidades.*
+    ![Interfaz UI](https://i.imgur.com/0LLSZjU.png)
+
+    *Visualización del formulario para ver tipos de contribuyentes y documentos.*
+    ![Interfaz UI](https://i.imgur.com/IxhfOSV.png)
+    ![Interfaz UI](https://i.imgur.com/ekH3xlm.png)
 
 ## Manejo Global de Excepciones
 
@@ -214,3 +224,9 @@ public class RestResponseEntityExceptionHandler extends ResponseEntityExceptionH
 # Conclusión
 
 Este proyecto demuestra la integración exitosa de tecnologías modernas como Spring Boot, Angular y MySQL para desarrollar un sistema eficiente, seguro y visualmente atractivo. La correcta implementación de arquitecturas y buenas prácticas asegura que el proyecto es escalable y fácil de mantener.
+
+## Enlaces del Proyecto
+
+- **Repositorio Backend:** [sintad-management-prueba-sintad-backend](https://github.com/Sintad-Management/prueba-sintad-backend)
+- **Repositorio Frontend:** [sintad-management-prueba-sintad-frontend](https://github.com/Sintad-Management/prueba-sintad-frontend)
+- **Organización:** [Sintad Management](https://github.com/Sintad-Management)
